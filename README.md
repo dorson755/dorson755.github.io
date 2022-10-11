@@ -1,1 +1,0 @@
-My Portfolio written with Bootstrap.
