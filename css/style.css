@@ -308,7 +308,6 @@ label {
 .page-nav {
   bottom: 40px;
   left: 0;
-  /*position: absolute;*/
   right: 0;
 }
 .page-nav span {
@@ -1392,10 +1391,7 @@ label {
     display: block;
     margin: 20px 0;
   }
-  /*.gimmeroom {
-    margin-top: 50px;
-    padding-top: 50px;
-  }*/
+
 }
 .dark {
   background-color: #0c0f15;
