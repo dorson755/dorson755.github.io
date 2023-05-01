@@ -1392,6 +1392,9 @@ label {
     display: block;
     margin: 20px 0;
   }
+  .gimmeroom {
+    margin-top: 50px;
+  }
 }
 .dark {
   background-color: #0c0f15;
