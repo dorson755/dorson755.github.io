@@ -13,7 +13,8 @@ body {
   background-color: #001f3d; /* Dark navy color */
   border-radius: 10px; /* Rounded edges */
   padding: 2rem; /* Default padding (responsive using rem) */
-  color: white; /* White text */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 a {
