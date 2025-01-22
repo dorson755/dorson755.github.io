@@ -9,6 +9,12 @@ body {
   color: #ababab;
 }
 
+.one-skill {
+  background-color: #001f3d; /* Dark navy color */
+  border-radius: 10px; /* Rounded edges */
+  padding: 20px; /* Optional: Adds padding inside the container */
+}
+
 a {
   color: inherit;
   transition: all 0.3s ease 0s;
