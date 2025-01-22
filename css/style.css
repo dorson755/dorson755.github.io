@@ -1432,3 +1432,8 @@ label {
   border-color: #1e2530;
 }
 /*# sourceMappingURL=style.css.map */
+.one-skill {
+  background-color: #001f3d; /* Dark navy color */
+  border-radius: 10px; /* Rounded edges */
+  padding: 20px; /* Optional: Adds padding inside the container */
+}
